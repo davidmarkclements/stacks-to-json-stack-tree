@@ -1,0 +1,16 @@
+{
+  "name": "stacks-to-json-stack-tree",
+  "version": "1.0.0",
+  "description": "Convert dtrace/perf stack samples into a JSON tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mark Clements <david.clements@nearform.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "end-of-stream": "^1.4.1",
+    "through2": "^2.0.3"
+  }
+}
