@@ -12,5 +12,15 @@
     "debug": "^3.1.0",
     "end-of-stream": "^1.4.1",
     "through2": "^2.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/stacks-to-json-tree.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/stacks-to-json-tree/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/stacks-to-json-tree#readme"
 }
