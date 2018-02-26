@@ -16,11 +16,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidmarkclements/stacks-to-json-tree.git"
+    "url": "git+https://github.com/davidmarkclements/stacks-to-json-stack-tree.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/davidmarkclements/stacks-to-json-tree/issues"
+    "url": "https://github.com/davidmarkclements/stacks-to-json-stack-tree/issues"
   },
-  "homepage": "https://github.com/davidmarkclements/stacks-to-json-tree#readme"
+  "homepage": "https://github.com/davidmarkclements/stacks-to-json-stack-tree#readme"
 }
