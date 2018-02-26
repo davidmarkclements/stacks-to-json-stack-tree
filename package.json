@@ -1,6 +1,6 @@
 {
   "name": "stacks-to-json-stack-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert dtrace/perf stack samples into a JSON tree",
   "main": "index.js",
   "scripts": {
